@@ -4,13 +4,13 @@ This is the empty workspace you build in. It is deliberately small: a starter pa
 
 ## Start here — make your own copy
 
-You can't save work into a repo you don't own, and an AI coding agent saves your work by pushing it to a repo. So the first move is to make your own copy of this one.
+The work you do in this course saves to a repository, and you can only save into a repository you own. So the first move is to make your own copy of this one.
 
 1. **Use this template.** At the top of this page, click the green **`Use this template`** button → **`Create a new repository`**. Pick any name you like (`my-first-thing` works). This creates a copy under *your* GitHub account that you own outright.
 2. **Open a Codespace on your copy.** On your new repository, click **`Code`** → the **`Codespaces`** tab → **`Create codespace on main`**. It boots in about a minute with your editor, terminal, and tools ready.
 3. **Follow the course from there.** Module 0 Lesson 5 walks the first-run in detail; Modules 2 and 3 are where this workspace fills up.
 
-> **Why a copy, not this repo directly?** Your copy is yours. Your AI agent can push to it freely, and nothing you do touches anyone else's work. Working directly in a repo you don't own would mean you couldn't save what you make.
+> **Why a copy, not this repo directly?** Your copy is yours. Your work saves into it freely, and nothing you do touches anyone else's work. Working directly in a repo you don't own would mean you couldn't save what you make.
 
 ## Where the course lives
 
